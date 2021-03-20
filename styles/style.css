@@ -119,6 +119,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   cursor: pointer;
+  font-family: "Roboto", sans-serif;
 }
 
 .radio-button:hover,
@@ -131,7 +132,7 @@ body {
 .advantage-title {
   font-weight: bold;
   font-size: 14px;
-  line-height: 1.14px;
+  line-height: 1.14;
   text-transform: uppercase;
   color: var(--secondary-text-color);
 }
@@ -174,6 +175,7 @@ body {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
+  font-style: normal;
 }
 
 .footer-contacts .location {
